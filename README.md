@@ -14,7 +14,7 @@ Mesh-aware explainability for DiffusionNet on triangular meshes.
 GeoInspect is an XAI toolkit designed for geometric deep learning on meshes.
 It provides explainability methods that are adapted to mesh geometry through mass weighting, Laplace-Beltrami operators, and spectral/heat smoothing.
 
-It is built to work directly with DiffusionNet checkpoints and SHREC11-style datasets.
+It is built to work directly with DiffusionNet checkpoints.
 
 ## What You Get
 
